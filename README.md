@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Nuno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
 
-  ##  Preferred Frameworks:
+  ##  Frameworks already worked on:
 
   <img align="center" alt="Nuno-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
  
