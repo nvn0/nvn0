@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   
 -->
   
-  ##  Used OS's:
+  ## OS's:
   
   <img align="center" alt="Nuno-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Nuno-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
