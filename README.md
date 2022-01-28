@@ -55,7 +55,8 @@ Here are some ideas to get you started:
   ##  Frameworks already worked on:
 
   <img align="center" alt="Nuno-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
- 
+  <img align="center" alt="Nuno-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
+
   
   <!--
   <img align="center" alt="Nuno-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
