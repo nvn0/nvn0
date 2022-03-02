@@ -67,6 +67,22 @@ Here are some ideas to get you started:
   
 -->
   
+  
+  ## Databases already worked on:
+  
+  <img align="center" alt="Nuno-mssqlserver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  
+  <!--
+  <img align="center" alt="Nuno-mdb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  -->
+  
+  
+  ##  Other technologies:
+  
+  <img align="center" alt="Nuno-apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
+  
+  
+  
   ## OS's:
   
   <img align="center" alt="Nuno-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
