@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Nuno-Lua" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Nuno-Rust" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   <img align="center" alt="Nuno-Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Nuno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nuno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Nuno-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   
   
@@ -80,8 +80,9 @@ Here are some ideas to get you started:
   
   ##  Other technologies:
   
-  <img align="center" alt="Nuno-apache" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
   <img align="center" alt="Nuno-nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Nuno-apache" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="Nuno-nginx" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   
   
   ## OS's:
