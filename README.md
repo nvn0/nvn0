@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**nunocardoso7/nunocardoso7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nuno-src/nuno-src** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://github.com/nunocardoso7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunocardoso7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunocardoso7&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/nuno-src">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuno-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-src&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ---  
@@ -59,13 +59,14 @@ Here are some ideas to get you started:
 
   <img align="center" alt="Nuno-dotnet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
   <img align="center" alt="Nuno-Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
+  
 
   
   <!--
   <img align="center" alt="Nuno-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Nuno-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="Nuno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
+  <img align="center" alt="Nuno-Xamarin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original-wordmark.svg">
 -->
   
   
