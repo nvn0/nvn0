@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Nuno-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="left" alt="Nuno-Rust" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   <img align="left" alt="Nuno-Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="left" alt="Nuno-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="left" alt="Nuno-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="left" alt="Nuno-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   
@@ -46,6 +45,7 @@ Here are some ideas to get you started:
   <img align="leftr" alt="Nuno-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 <!--
+  <img align="left" alt="Nuno-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Nuno-Lua" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Nuno-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Nuno-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
