@@ -72,7 +72,8 @@ Here are some ideas to get you started:
   
   ## Databases already worked on:
   
-  <img align="center" alt="Nuno-mssqlserver" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="left" alt="Nuno-mssqlserver" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="leftr" alt="Nuno-mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   
   <!--
   <img align="left" alt="Nuno-mdb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
@@ -83,7 +84,7 @@ Here are some ideas to get you started:
   
   <img align="left" alt="Nuno-nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="left" alt="Nuno-apache" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
-  <img align="center" alt="Nuno-nginx" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+  <img align="leftr" alt="Nuno-nginx" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   
   
   ## OS's:
@@ -91,7 +92,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Nuno-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="left" alt="Nuno-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="left" alt="Nuno-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg">
-  <img align="left" alt="Nuno-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="leftr" alt="Nuno-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   
  
 
