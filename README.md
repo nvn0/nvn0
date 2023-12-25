@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/nuno-src">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nuno-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-src&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuno-src&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-src&layout=compact&langs_count=8&theme=dark"/>
 </div>
   
 ---  
