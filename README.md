@@ -44,9 +44,11 @@ Here are some ideas to get you started:
   
   
 
-
+<!--
   <img align="left" alt="Nuno-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="Nuno-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  -->
+  
   <img align="leftr" alt="Nuno-php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
   
 <!--
