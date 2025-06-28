@@ -83,8 +83,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Nuno-mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="left" alt="Nuno-mariadb" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mariadb/mariadb-original-wordmark.svg">
   <img align="left" alt="Nuno-sqlite" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
-  <img align="leftr" alt="Nuno-redis" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg">
-  
+  <img align="left" alt="Nuno-redis" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg">
+  <img align="leftr" alt="Nuno-redis" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg">  
   <!--
   <img align="left" alt="Nuno-mdb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   -->
