@@ -31,31 +31,31 @@ Here are some ideas to get you started:
 ##  Preferred Languages:
   
 
-  <img align="left" alt="Nuno-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="Nuno-Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="left" alt="Nuno-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="left" alt="Nuno-Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="left" alt="Nuno-Nim" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-original.svg">
-  <img align="left" alt="Nuno-PowerShell" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg">
-  <img align="leftr" alt="Nuno-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="left" alt="Nuno-Python" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Nuno-Go" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
+  <img align="left" alt="Nuno-Csharp" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="left" alt="Nuno-Bash"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="left" alt="Nuno-Nim"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-original.svg">
+  <img align="left" alt="Nuno-PowerShell" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg">
+  <img align="leftr" alt="Nuno-C" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
   
   ##  Other languages already used:
 
 <!--
-  <img align="left" alt="Nuno-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="Nuno-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Nuno-HTML"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Nuno-CSS"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   -->
-  <img align="left" alt="Nuno-Rust" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
-  <img align="left" alt="Nuno-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="left" alt="Nuno-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="left" alt="Nuno-Rust"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+  <img align="left" alt="Nuno-Ts"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="left" alt="Nuno-Js"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="leftr" alt="Nuno-php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
   
 <!--
-<img align="left" alt="Nuno-Nim" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-plain-wordmark.svg">
-  <img align="left" alt="Nuno-Nim" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-original.svg">
-  <img align="left" alt="Nuno-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Nuno-Lua" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+<img align="left" alt="Nuno-Nim"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-plain-wordmark.svg">
+  <img align="left" alt="Nuno-Nim"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-original.svg">
+  <img align="left" alt="Nuno-Kotlin"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Nuno-Lua"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Nuno-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Nuno-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   
@@ -63,18 +63,18 @@ Here are some ideas to get you started:
 
   ##  Frameworks/libraries already worked on:
 
-  <img align="left" alt="Nuno-dotnet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
-  <img align="left" alt="Nuno-Fastapi" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original.svg">
-  <img align="left" alt="Nuno-Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
-  <img align="left" alt="Nuno-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="leftr" alt="Nuno-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="left" alt="Nuno-dotnet"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
+  <img align="left" alt="Nuno-Fastapi"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original.svg">
+  <img align="left" alt="Nuno-Flask"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg">
+  <img align="left" alt="Nuno-React"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="leftr" alt="Nuno-Pandas"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   
   <!--
-  <img align="leftr" alt="Nuno-Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="leftr" alt="Nuno-Vue"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="left" alt="Nuno-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="leftr" alt="Nuno-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   
-  <img align="left" alt="Nuno-Xamarin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original-wordmark.svg">
+  <img align="left" alt="Nuno-Xamarin"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original-wordmark.svg">
 -->
   
   
@@ -93,8 +93,8 @@ Here are some ideas to get you started:
   
   ## Other technologies:
   
-  <img align="left" alt="Nuno-nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="left" alt="Nuno-apache" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
+  <img align="left" alt="Nuno-nodejs"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="left" alt="Nuno-apache"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
   <img align="left" alt="Nuno-nginx" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img align="left" alt="Nuno-docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="left" alt="Nuno-git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg">
