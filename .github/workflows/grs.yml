@@ -19,9 +19,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          options: > 
+          username=${{ github.repository_owner }}
+          &layout=compact
+          &theme=tokyonight
+          &langs_count=8
+          &hide=html,css,jupyter%20notebook,yara
 
       - name: Commit changes
         run: |
