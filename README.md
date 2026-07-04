@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+  <!--
   <a href="https://github.com/nvn0">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nvn0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvn0&layout=compact&langs_count=8&theme=dark&hide=yara,nix,dockerfile,latex,typescript,html,css"/>
+  -->
+    ![Top Languages](./assets/top-langs.svg)
 </div>
   
 ---  
