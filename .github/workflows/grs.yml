@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 3 * * *" # todos os dias às 03:00 UTC
+    - cron: "0 3 1 * *"  
   workflow_dispatch:
 
 permissions:
