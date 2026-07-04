@@ -21,7 +21,7 @@ jobs:
           card: top-langs
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,jupyter%20notebook,yara
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,jupyter%20notebook,yara,nix,dockerfile,latex,typescript
 
       - name: Commit changes
         run: |
