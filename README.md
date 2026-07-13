@@ -53,8 +53,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Nuno-Rust"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="left" alt="Nuno-Ts"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="left" alt="Nuno-Js"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="leftr" alt="Nuno-php"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
-  
+  <img align="left" alt="Nuno-php"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
+  <img align="leftr" alt="Nuno-zig"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zig/zig-original.svg">
 <!--
 <img align="left" alt="Nuno-Nim"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-plain-wordmark.svg">
   <img align="left" alt="Nuno-Nim"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-original.svg">
