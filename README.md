@@ -97,13 +97,14 @@ Here are some ideas to get you started:
   
   ## Other technologies:
   
-  <img align="left" alt="Nuno-nodejs"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="left" alt="Nuno-apache"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
-  <img align="left" alt="Nuno-nginx"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-  <img align="left" alt="Nuno-docker"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="left" alt="Nuno-git"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg">
-  <img align="left" alt="Nuno-subversion"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/subversion/subversion-original.svg">
-  <img align="leftr" alt="Nuno-splunk"  width="60" src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg">
+  <img align="left" alt="Nuno-nodejs" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="left" alt="Nuno-ansible" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ansible/ansible-original.svg">
+  <img align="left" alt="Nuno-apache" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
+  <img align="left" alt="Nuno-nginx" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+  <img align="left" alt="Nuno-docker" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="left" alt="Nuno-git" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg">
+  <img align="left" alt="Nuno-subversion" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/subversion/subversion-original.svg">
+  <img align="leftr" alt="Nuno-splunk" width="60" src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg">
   
   
   ## OS's:
