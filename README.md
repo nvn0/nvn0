@@ -104,7 +104,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Nuno-docker" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="left" alt="Nuno-git" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg">
   <img align="left" alt="Nuno-subversion" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/subversion/subversion-original.svg">
-  <img align="leftr" alt="Nuno-splunk" width="60" src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg">
+  <img align="left" alt="Nuno-splunk" width="60" src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg">
+  <img align="left" alt="Nuno-Hugo" width="80" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/hugo/hugo-original-wordmark.svg">
+  <img align="left" alt="Nuno-alpinejs" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/alpinejs/alpinejs-original.svg">
+  <img align="leftr" alt="Nuno-htmx" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/htmx/htmx-original.svg">
   
   
   ## OS's:
