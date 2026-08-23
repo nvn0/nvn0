@@ -121,7 +121,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Nuno-Ubuntu"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/ubuntu/ubuntu-plain.svg">
   <img align="left" alt="Nuno-alpine"  width="70" src="https://raw.githubusercontent.com/nvn0/tech-icons/refs/heads/main/alpine_linux/alpinelinux-logo.svg">
   
-  <img align="leftr" alt="Nuno-NixOS"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg">
+  <img align="leftr" alt="Nuno-NixOS"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg"> <!-- I'm not woke -->
   
  
 
