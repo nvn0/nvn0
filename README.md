@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Nuno-Bash"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="left" alt="Nuno-Nim"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-original.svg">
   <img align="left" alt="Nuno-PowerShell" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg">
-  <img align="leftr" alt="Nuno-C" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="leftr" alt="Nuno-C" width="50" src="https://raw.githubusercontent.com/devicons/devicon/e1e71358efd844876dfc3217aa6429957ad92bc8/icons/c/c-original.svg">
   
   
   ##  Other languages already used:
