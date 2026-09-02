@@ -35,13 +35,14 @@ Here are some ideas to get you started:
 ##  Preferred Languages:
   
 
-  <img align="left" alt="Nuno-Python" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="Nuno-Go" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  <img align="left" alt="Nuno-Csharp" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="left" alt="Nuno-Python" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="Nuno-Bash"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="left" alt="Nuno-Nim"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-original.svg">
   <img align="left" alt="Nuno-PowerShell" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg">
-  <img align="leftr" alt="Nuno-C" width="50" src="https://raw.githubusercontent.com/devicons/devicon/e1e71358efd844876dfc3217aa6429957ad92bc8/icons/c/c-original.svg">
+  <img align="left" alt="Nuno-C" width="50" src="https://raw.githubusercontent.com/devicons/devicon/e1e71358efd844876dfc3217aa6429957ad92bc8/icons/c/c-original.svg">
+  <img align="left" alt="Nuno-Csharp" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="leftr" alt="Nuno-Nim"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-original.svg">
+  
   
   
   ##  Other languages already used:
@@ -50,11 +51,12 @@ Here are some ideas to get you started:
   <img align="left" alt="Nuno-HTML"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="Nuno-CSS"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   -->
+  <img align="left" alt="Nuno-zig"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zig/zig-original.svg">
   <img align="left" alt="Nuno-Rust"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="left" alt="Nuno-Ts"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="left" alt="Nuno-Js"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="left" alt="Nuno-php"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
-  <img align="leftr" alt="Nuno-zig"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/zig/zig-original.svg">
+  <img align="leftr" alt="Nuno-php"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
+  
 
 <!--
 <img align="left" alt="Nuno-Nim"   width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nim/nim-plain-wordmark.svg">
